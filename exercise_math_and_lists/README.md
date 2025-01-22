@@ -1,4 +1,3 @@
 # Opis
-Task1: Kod wypisuje liczby od 10 do 1, obok każdej liczby jej kwadrat oraz pierwiastek kwadratowy.<br />
-Task2: Kod oblicza i wypisuje kolejne wyrazy ciągu arytmetycznego (gdzie pierwszy wyraz to a1, a różnica między wyrazami to r), oraz sumę wszystkich wyrazów od początku do danego momentu, dla N wyrazów.<br />
-Task3: Kod sprawdza, czy liczba N (37) jest liczbą pierwszą, dzieląc ją przez wszystkie liczby całkowite od 2 do N//2 + 1, i wypisuje odpowiedni komunikat w zależności od tego, czy znajdzie dzielnik.<br />
+Task1: Kod oblicza przybliżenie wartości cosinusa π/4 (45 stopni) za pomocą szeregu Taylora do N-tego wyrazu i wypisuje wyniki dla N od 2 do 10.<br />
+Task2: Task2: Kod wykonuje sekwencję operacji na liście, takich jak obliczanie długości, znajdowanie unikalnych elementów, sortowanie, modyfikowanie listy przez usuwanie lub dodawanie elementów, oraz przestawianie elementów według parzystości ich indeksów, a następnie wypisuje wyniki każdej operacji.<br />
