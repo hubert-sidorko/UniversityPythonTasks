@@ -1,3 +1,3 @@
 # Opis/Description
-PL: W repozytorium znajdują się zadania wykonane w trakcie moich studiów uniwersyteckich w języku Python.<br />
-ENG: This repository contains assignments completed during my university studies in Python.
+PL: W repozytorium znajdują się zadania wykonane w trakcie moich studiów w języku Python.<br />
+ENG: This repository contains tasks completed during my studies in Python.
